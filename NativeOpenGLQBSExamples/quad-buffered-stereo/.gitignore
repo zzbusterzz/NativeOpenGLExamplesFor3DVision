@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/QuadBufferedStereo/v15
+/Debug
+/Release
+/x64/Debug
+/x64/Release
+/QuadBufferedStereo.vcxproj.user
